@@ -4,6 +4,7 @@ Link shortener test project
 Implemented:
 
 POST - Save the URL to the database, return the short link
+
 GET - redirect to the saved url using the short link
 
 
